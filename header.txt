@@ -1,0 +1,17 @@
+headers:   {'accept': '*/*', 'accept-encoding': 'gzip, deflate, br, zstd', 'accept-language': 'en-US,en;q=0.9', 
+'Authorization': 'Bearer eyJraWQiOiJhR3RUSUl1bWg4UnZMMG1ObjVZOHB1dVhxaEVseksyQ291NDl1TjhaOXljPSIsImFsZyI6IlJTMjU2In0.eyJhdF9oY
+XNoIjoiQlpyMlZLdHNDMmdzMWdSUkV2U0k2QSIsInN1YiI6IjY4ZTE5M2MwLTMwZDEtNzAwOS0xZTIzLWIwMjliZTFmZGFlYSIsImNvZ25pdG86Z3JvdXBzIjpbIkF
+kbWluIl0sImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJpc3MiOiJodHRwczpcL1wvY29nbml0by1pZHAudXMtd2VzdC0yLmFtYXpvbmF3cy5jb21cL3VzLXdlc3QtMl9UYn
+dsMUhFZEQiLCJjb2duaXRvOnVzZXJuYW1lIjoiNjhlMTkzYzAtMzBkMS03MDA5LTFlMjMtYjAyOWJlMWZkYWVhIiwiYXVkIjoiMzZtYm8zY3AwcnMzdm1nNmdiZHYzO
+XJvbTYiLCJldmVudF9pZCI6ImJiYThkZGU4LWU1MjItNDcwZi1hNTM0LTA0NzM3NGJjNDMzNyIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzI0OTk3NzI
+3LCJleHAiOjE3MjUwMDEzMjcsImlhdCI6MTcyNDk5NzcyNywianRpIjoiODNjMjU1MTMtZmRiYi00YjFlLTliNDgtN2FlZGQ3ZDJjZjI3IiwiZW1haWwiOiJhZG1pb
+kBteWRvbWFpbi5jb20ifQ.NG9MntNZRl1PGi7SSbYFPOdH0QKNON4AX_VKQEDUUoK19-p6hS3zfchNfWU19-DsNrCkslsix_eM99jKt6WRZeluVABKwQqInf1FOwGP
+oM6rRkPGP-CTqSKqL-1T54PW4zgLalRGbC5eKh0fClf_qAcClNZC1q69hMGC175EI2GlR1BRP1BwwAwc_KNh9X9B5HjZ4T2wUmET7Gq42i5MF5uuUN59V8qDN6Re6D
+2vwzIqwsjeOW8IuS4d4oJcWo2VolQ81tiW7d9-6KMe5RSBaW4mDdJtH1BOlYS5Xtcf77fv3zzwzJ4OCEEe9chzHv7zRKIV3-Su5-Pl07ExzHwS6g', 
+'content-type': 'multipart/form-data', 'dnt': '1', 'Host': '569h2tnug9.execute-api.us-west-2.amazonaws.com', 'origin': 'https://localhost:5000', 
+'priority': 'u=1, i', 'referer': 'https://localhost:5000/', 'sec-ch-ua': '"Not)A;Brand";v="99", "Google Chrome";v="127", 
+"Chromium";v="127"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform': '"Android"', 'sec-fetch-dest': 'empty', 
+'sec-fetch-mode': 'cors', 'sec-fetch-site': 'cross-site', 'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; 
+Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36', 
+'X-Amzn-Trace-Id': 'Root=1-66d163b2-0046b98e023bfd87357d9863', 'X-Forwarded-For': '174.83.235.0', 
+'X-Forwarded-Port': '443', 'X-Forwarded-Proto': 'https'}
