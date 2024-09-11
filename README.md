@@ -9,11 +9,7 @@ This repository contains the codebase for a **Hotel Booking System**, designed w
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Running Locally](#running-locally)
 - [API Endpoints](#api-endpoints)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Architecture Overview
 The Hotel Booking System is built using microservices patterns, with an emphasis on scalability, performance, and high availability. The architecture includes the following components:
@@ -66,6 +62,7 @@ npm install
 
 ```
 3. The following API endpoints are available for various functionalities:
+```
 GET /hotels: Fetch the list of available hotels.
 POST /hotels: Add a new hotel. 
 
